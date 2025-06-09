@@ -1,5 +1,5 @@
 Data Structures and Algorithms (DSA) in C++
-Welcome to the DSA in C++ repository! 🚀 This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) implementations in C++. It is designed to help you understand, implement, and enhance your coding skills, especially if you're preparing for coding interviews or competitive programming.
+Welcome to the DSA in C++ repository! 🚀 This repository contains a comprehensive collection of Data Structures and Algorithms (DSA) implementations in C++. It is designed to help to understand, implement, and enhance the coding skills, especially if anyone preparing for coding interviews or competitive programming.
 
 📚 Contents
 The repository covers the following categories:
