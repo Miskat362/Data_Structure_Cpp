@@ -4,6 +4,10 @@
         "iostream": "cpp",
         "string": "cpp",
         "ostream": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "vector": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp"
     }
 }
