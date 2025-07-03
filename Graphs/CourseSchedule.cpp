@@ -15,7 +15,7 @@ public:
                         return true;
                     }
                 } else {
-                    is(rec[v]){
+                    if(rec[v]){
                         return true;
                     }
                 }
@@ -31,7 +31,7 @@ public:
 
         for(int i=0; i<V; i++){
             if(!vis[i]){
-                if(isCycle(1, vis, rec, graph)){
+                if(isCycle(i, vis, rec, graph)){
                     return false;
                 }
             }

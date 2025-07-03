@@ -15,7 +15,7 @@ public:
                         return true;
                     }
                 } else {
-                    is(rec[v]){
+                    if(rec[v]){
                         return true;
                     }
                 }
